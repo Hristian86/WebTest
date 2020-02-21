@@ -1,0 +1,46 @@
+body {
+    background: whitesmoke;
+}
+a {
+    text-decoration: none;
+}
+.home {
+    color: black;
+}
+.home:hover {
+    color: skyblue;
+}
+#container {
+    display: block;
+    width: 100%;
+    background: black;;
+    color: white;
+    height: 1024px;
+    margin:15px auto;
+}
+button {
+    margin: auto;
+}
+#formi {
+    display: block;
+    margin: 25px auto;
+    text-align: center;
+    background-color: lightgray;
+    width:60%;
+}
+#disptext {
+    font-size: 135%;
+    text-align: center;
+}
+#plaintxt {
+    font-size: 135%;
+    color: skyblue;
+}
+#btnLoadPosts {
+    background-color: lightgreen;
+    font-size: 120%;
+}
+#btnLoadPost {
+    background-color: lightgreen;
+    font-size: 120%;
+}
