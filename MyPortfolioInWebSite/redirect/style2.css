@@ -6,3 +6,12 @@
 body{
 	background-color: black;
 }
+.home {
+    color: whitesmoke;
+}
+.home:hover {
+    color: skyblue;
+}
+a {
+	position: fixed;
+}

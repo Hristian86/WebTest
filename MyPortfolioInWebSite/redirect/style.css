@@ -5,10 +5,13 @@ a {
     text-decoration: none;
 }
 .home {
-    color: black;
+    color: brown;
 }
 .home:hover {
     color: skyblue;
+}
+a {
+    position: fixed;
 }
 #container {
     display: block;
@@ -39,8 +42,10 @@ button {
 #btnLoadPosts {
     background-color: lightgreen;
     font-size: 120%;
+    cursor: pointer;
 }
 #btnLoadPost {
     background-color: lightgreen;
     font-size: 120%;
+    cursor: pointer;
 }
