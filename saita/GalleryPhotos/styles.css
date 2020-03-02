@@ -1,0 +1,92 @@
+#firstbox {
+    background: url(../images/pic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#firstbox1 {
+    background: url(../images/pic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#firstbox2 {
+    background: url(../images/pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* NAVBAR */
+.navigation {
+	background-color: rgba(220, 220, 300, .18);
+	width: 100%;
+    height: 8%;
+    /* position: fixed; */
+}
+.links {
+	color: white;
+	/* text-shadow: 0.1px 2px 5px black; */
+	font-family: 'Cambay', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding-right: 85px;
+	font-size: 24px;
+}
+.links:hover {
+	/* color: #eece59; */
+	color: gold;
+}
+
+/* ENDNAVBAR */
+
+/* .navigation {
+    position: fixed;
+} */
+
+body {
+    background-color: lightgray;
+}
+/* 
+.slidera {
+    background: url(../images/Logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+} */
+
+/* Sliders */
+
+.first-slider {
+    min-height: 800px;
+    
+    background-image: url('../max-image/bussines-2.jpg');
+    background-size: cover;
+}
+
+.first-slider-1 {
+    min-height: 800px;
+   
+    background-image: url('../max-image/bussines-1.jpg');
+    background-size: cover;
+}
+
+.first-slider-2 {
+    min-height: 800px;
+   
+    background-image: url('../images/.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.morespace {
+    height: 300px;
+}
+.pictures {
+    width: 900px;
+    height: 900px;
+}
+.staff {
+    padding-top: 110px;
+    text-align: center;
+    color: whitesmoke;
+}
+.staff:hover {
+    color: gold;
+}
