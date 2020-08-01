@@ -189,5 +189,10 @@ a{
 	background-color: orange;
 }
 #git:hover{
-	background-color: orange;
+	background-color: seagreen;
+}
+
+.color-cyan-style {
+	text-decoration:none!important;	
+	color: cyan!important;
 }
