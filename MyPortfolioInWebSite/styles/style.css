@@ -3,6 +3,10 @@ html {
 	background-color: black;
 }
 
+p, a {
+	font-size: 120%!important;
+}
+
 body {
 	height: 100%;
 	line-height: 1;
